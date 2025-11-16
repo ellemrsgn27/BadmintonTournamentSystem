@@ -68,6 +68,15 @@ java BadmintonTournamentSystem
 ## ✍️ Contributors
 
 ## ✨ Acknowledgement
+<p align="justify"> 
+We would like to express our heartfelt gratitude to __Mr. Emmanuel Charlie Enriquez__ for his sincere support and encouragement throughout the development of this project. Your dedication to teaching us and your thoughtful guidance helped us think critically and improve at every stage. We are truly grateful for the time and effort you devoted to helping us grow. This project would not have been possible without your unwavering support.
+
+We would also like to give a special mention to __Ms. Fatima Marie Agdon__ for her continuous assistance and motivation. Your insights and encouragement contributed greatly to our learning experience, and we deeply appreciate your presence and support along the way.
+
+*Sincerely,*
+
+*TriByte*
+
 
 
 
