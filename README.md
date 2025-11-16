@@ -26,8 +26,8 @@ Class fields such as `name` in Player, `teamName/player1/player2` in Team, and `
 - Shared behaviors are reused while subclass-specific features remain customizable.
 
 ### 🔁 Polymorphism
-- A single list of Participant objects can hold Player and Team instances.
-- Methods like getDisplayName() or updateLabel() automatically call the correct overridden version depending on the object type.
+- A single list of `Participant` objects can hold Player and Team instances.
+- Methods like `getDisplayName()` or `updateLabel()` automatically call the correct overridden version depending on the object type.
 
 
   
