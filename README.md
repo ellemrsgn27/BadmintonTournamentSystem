@@ -7,13 +7,9 @@
 The Badminton Tournament System is a Java console-based application designed to efficiently organize and manage badminton competitions. Users can choose the tournament type between Single Elimination or Double Elimination and navigate a clear, interactive menu that offers the following options:
   
 - 📝 Register Players
-
 - 👀 View Players and Brackets
-
 - 🏸 Start the Tournament
-
 - ✏️ Update Player or Bracket Information
-
 - 🗑️ Delete Players
 
 The system demonstrates the four key Object-Oriented Programming (OOP) principles—encapsulation, inheritance, abstraction, and polymorphism—through its well-structured class design and method implementation. By integrating exception handling, arrays, and user-driven console interactions, the project provides a practical and engaging simulation of real-world tournament management, highlighting both functionality and good programming practice. 
@@ -26,10 +22,12 @@ Class fields such as `name` in Player, `teamName/player1/player2` in Team, and `
 
 ### 🧬 Inheritance
 - Player and Team inherit from Participant.
-
 - SinglesTournament and DoublesTournament inherit from Tournament.
-
 - Shared behaviors are reused while subclass-specific features remain customizable.
+
+### 🔁 Polymorphism
+- A single list of Participant objects can hold Player and Team instances.
+- Methods like getDisplayName() or updateLabel() automatically call the correct overridden version depending on the object type.
 
 
   
