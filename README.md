@@ -29,6 +29,9 @@ Shared behaviors are reused while subclass-specific features remain customizable
 - A single list of `Participant` objects can hold `Player` and `Team` instances.
 - Methods like `getDisplayName()` or `updateLabel()` automatically call the correct overridden version depending on the object type.
 
+### 📊 UML DIAGRAM 
+![DIAGRAM](https://github.com/ellemrsgn27/BadmintonTournamentSystem/blob/main/UML%20Diagram.jpg)
+
 ## ▶️ How to Run the Program
 ### 1️⃣ Save the Code
 Save your Java file as:
