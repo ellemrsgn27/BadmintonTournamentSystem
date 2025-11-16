@@ -8,12 +8,12 @@ The <strong>Badminton Tournament System</strong> is a <strong>Java console-based
 
 ## 🧠 OOP Concepts Applied
 ## 🔒 Encapsulation
-       Class fields such as `name` in Player, `teamName/player1/player2` in Team, and `participants` in Tournament are private. Access is controlled through getters and setters, ensuring data safety and validity.
+Class fields such as `name` in Player, `teamName/player1/player2` in Team, and `participants` in Tournament are private. Access is controlled through getters and setters, ensuring data safety and validity.
 ## 🎭 Abstraction
-       Abstract classes like Participant and Tournament hide complex logic.
-          Only essential methods are exposed, such as:
-          `getDisplayName()` in Participant
-          `createParticipantFromInput()` in Tournament
-       The system can work with different types of participants without needing to know their internal details.
+Abstract classes like Participant and Tournament hide complex logic.
+Only essential methods are exposed, such as:
+- `getDisplayName()` in Participant
+- `createParticipantFromInput()` in Tournament
+The system can work with different types of participants without needing to know their internal details.
 
   
