@@ -1,2 +1,2 @@
 # 🏸 Badminton Tournament System
-### A Java Console Application Demonstrating Object-Oriented Programming (OOP)
+### A Java Console System Demonstrating Object-Oriented Programming (OOP)
