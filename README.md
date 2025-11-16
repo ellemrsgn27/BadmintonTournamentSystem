@@ -65,6 +65,69 @@ java BadmintonTournamentSystem
     Select option: 
   ```
 ## 🖥 Sample Output
+<details>
+  <summary><strong>1. Competition Type Selection</strong></summary>
+  <br>
+  
+  ![Screenshot of the Competition Type Selection]()
+  <p align="center"><em>The Competition Type Selection, showing 2 options.</em></p>
+</details>
+
+<details>
+  <summary><strong>2. Main Menu & Registering Participants</strong></summary>
+  <br>
+  
+  ![Screenshot of the Main Menu and Registering Participants]()
+  <p align="center"><em>The Main Menu and Registering Participants, showing 6 options.</em></p>
+</details>
+
+<details>
+  <summary><strong>3. Viewing Players and Brackets</strong></summary>
+  <br>
+  
+  ![Screenshot of the Viewing Players and Brackets]()
+  <p align="center"><em>The output showing all registered participants and the tournament bracket.</em></p>
+</details>
+
+<details>
+  <summary><strong>4. Starting Tournament</strong></summary>
+  <br>
+  
+  ![Screenshot of the Starting Tournament]()
+  <p align="center"><em>The tournament rounds and winners display.</em></p>
+</details>
+
+<details>
+  <summary><strong>5. Final Ranking</strong></summary>
+  <br>
+  
+  ![Screenshot of the Final Ranking]()
+  <p align="center"><em>The output showing final rankings of all participants.</em></p>
+</details>
+
+<details>
+  <summary><strong>6. Updating a Participant</strong></summary>
+  <br>
+  
+  ![Screenshot of the Updating a Participant]()
+  <p align="center"><em>The prompt for updating a player’s or team’s information.</em></p>
+</details>
+
+<details>
+  <summary><strong>7. Deleting a Participant</strong></summary>
+  <br>
+  
+  ![Screenshot of the Deleting a Participant]()
+  <p align="center"><em>The prompt for deleting a player or team from the tournament.</em></p>
+</details>
+
+<details>
+  <summary><strong>8. Exit</strong></summary>
+  <br>
+  
+  ![Screenshot of the Exit]()
+  <p align="center"><em>The system exit message.</em></p>
+</details>
 
 ## ✍️ Contributors
 
@@ -78,6 +141,18 @@ We would also like to give a special mention to **Ms. Fatima Marie Agdon** for h
 *Sincerely,*
 
 *TriByte*
+
+
+
+
+
+  
+
+
+
+
+  
+
 
 
 
