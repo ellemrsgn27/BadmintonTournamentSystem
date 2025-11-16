@@ -16,17 +16,17 @@ The system demonstrates the four key Object-Oriented Programming (OOP) principle
 
 ## 🧠 OOP Concepts Applied
 ### 🔒 Encapsulation
-Class fields such as `name` in Player, `teamName/player1/player2` in Team, and `participants` in Tournament are private. Access is controlled through getters and setters, ensuring data safety and validity.
+- Class fields such as `name` in Player, `teamName/player1/player2` in Team, and `participants` in Tournament are private. Access is controlled through getters and setters, ensuring data safety and validity.
 ### 🎭 Abstraction
 - Abstract classes like Participant and Tournament hide complex logic. Only essential methods are exposed, such as: `getDisplayName()` in Participant and `createParticipantFromInput()` in Tournament. The system can work with different types of participants without needing to know their internal details.
 
 ### 🧬 Inheritance
-- Player and Team inherit from Participant.
-- SinglesTournament and DoublesTournament inherit from Tournament.
-- Shared behaviors are reused while subclass-specific features remain customizable.
+- `Player` and `Team` inherit from `Participant`.
+- `SinglesTournament` and `DoublesTournament` inherit from `Tournament`.
+Shared behaviors are reused while subclass-specific features remain customizable.
 
 ### 🔁 Polymorphism
-- A single list of `Participant` objects can hold Player and Team instances.
+- A single list of `Participant` objects can hold `Player` and `Team` instances.
 - Methods like `getDisplayName()` or `updateLabel()` automatically call the correct overridden version depending on the object type.
 
 ## 🧠 OOP Concepts Applied
