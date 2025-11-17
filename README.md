@@ -134,9 +134,9 @@ java BadmintonTournamentSystem
 ## ✍️ Contributors
 |  | Name | Year | Github Account |
 |--------|------|------|--------| 
-| <img src="https://github.com/ellemrsgn27/BadmintonTournamentSystem/blob/main/assets/Chloe.jpg?raw=true" width="80"/> | **Chloe Yzabelle Gonzaga** | 2nd Year|[![GitHub](https://github.com/chlyzbll)|
-| <img src="https://github.com/ellemrsgn27/BadmintonTournamentSystem/blob/main/assets/Jisselle.jpg?raw=true" width="80"/> | **Jiselle Mae Silla** | 2nd Year | [![GitHub](https://github.com/ellemrsgn27)|
-| <img src="https://github.com/ellemrsgn27/BadmintonTournamentSystem/blob/main/assets/Lance.jpg?raw=true" width="80"/> | **Lance Buenviaje** | 2nd Year | [![GitHub](https://github.com/LncBnvj)|
+| <img src="https://github.com/ellemrsgn27/BadmintonTournamentSystem/blob/main/assets/Chloe.jpg?raw=true" width="80"/> | **Chloe Yzabelle Gonzaga** | 2nd Year|[GitHub](https://github.com/chlyzbll)|
+| <img src="https://github.com/ellemrsgn27/BadmintonTournamentSystem/blob/main/assets/Jisselle.jpg?raw=true" width="80"/> | **Jiselle Mae Silla** | 2nd Year | [GitHub](https://github.com/ellemrsgn27)|
+| <img src="https://github.com/ellemrsgn27/BadmintonTournamentSystem/blob/main/assets/Lance.jpg?raw=true" width="80"/> | **Lance Buenviaje** | 2nd Year | [GitHub](https://github.com/LncBnvj)|
 
 
 ## ✨ Acknowledgement
