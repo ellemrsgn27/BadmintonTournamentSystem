@@ -1,7 +1,7 @@
 <h1 align = "center">🏸 Badminton Tournament System </h1> 
 
 ### *A Java Console System Demonstrating Object-Oriented Programming*
-![BADMINTON TOURNAMENT SYSTEM](https://github.com/ellemrsgn27/BadmintonTournamentSystem/blob/main/TriByteBTS.png)
+![BADMINTON TOURNAMENT SYSTEM](assets/TriByteBTS.png)
 
 ## 📝 Overview
 <p align="justify">
@@ -32,7 +32,7 @@ Shared behaviors are reused while subclass-specific features remain customizable
 - Methods like `getDisplayName()` or `updateLabel()` automatically call the correct overridden version depending on the object type.
 
 ### 📊 UML DIAGRAM 
-![DIAGRAM](https://github.com/ellemrsgn27/BadmintonTournamentSystem/blob/main/UML%20Diagram.jpg) 
+![DIAGRAM](assets/UMLdiagram.jpg) 
 
 ## ▶️ How to Run the Program
 ### 1️⃣ Save the Code
@@ -70,7 +70,7 @@ java BadmintonTournamentSystem
   <summary><strong>Competition Type Selection</strong></summary>
   <br>
   
-  ![Screenshot of the Competition Type Selection]()
+  ![Screenshot of the Competition Type Selection](assets/CompetitionTypeSelection.png)
   <p align="center"><em>The Competition Type Selection, showing 2 options.</em></p>
 </details>
 
@@ -78,7 +78,7 @@ java BadmintonTournamentSystem
   <summary><strong>Main Menu & Registering Participants</strong></summary>
   <br>
   
-  ![Screenshot of the Main Menu and Registering Participants]()
+  ![Screenshot of the Main Menu and Registering Participants](assets/MainMenyandRegisteringParticipants.png)
   <p align="center"><em>The Main Menu and Registering Participants, showing 6 options.</em></p>
 </details>
 
@@ -86,7 +86,7 @@ java BadmintonTournamentSystem
   <summary><strong>Viewing Players and Brackets</strong></summary>
   <br>
   
-  ![Screenshot of the Viewing Players and Brackets]()
+  ![Screenshot of the Viewing Players and Brackets](assets/ViewingPlayersandBrackets.png)
   <p align="center"><em>The output showing all registered participants and the tournament bracket.</em></p>
 </details>
 
@@ -94,7 +94,8 @@ java BadmintonTournamentSystem
   <summary><strong>Starting Tournament</strong></summary>
   <br>
   
-  ![Screenshot of the Starting Tournament]()
+  ![Screenshot of the Starting Tournament](assets/StartingTournament.png)
+  ![Screenshot of the Starting Tournament2](assets/StartingTournament2.png)
   <p align="center"><em>The tournament rounds and winners display.</em></p>
 </details>
 
@@ -102,7 +103,7 @@ java BadmintonTournamentSystem
   <summary><strong>Final Ranking</strong></summary>
   <br>
   
-  ![Screenshot of the Final Ranking]()
+  ![Screenshot of the Final Ranking](assets/FinalRanking.png)
   <p align="center"><em>The output showing final rankings of all participants.</em></p>
 </details>
 
@@ -110,7 +111,7 @@ java BadmintonTournamentSystem
   <summary><strong>Updating a Participant</strong></summary>
   <br>
   
-  ![Screenshot of the Updating a Participant]()
+  ![Screenshot of the Updating a Participant](assets/UpdatingParticipants.png)
   <p align="center"><em>The prompt for updating a player’s or team’s information.</em></p>
 </details>
 
@@ -118,7 +119,7 @@ java BadmintonTournamentSystem
   <summary><strong>Deleting a Participant</strong></summary>
   <br>
   
-  ![Screenshot of the Deleting a Participant]()
+  ![Screenshot of the Deleting a Participant](assets/DeletingParticipant.png)
   <p align="center"><em>The prompt for deleting a player or team from the tournament.</em></p>
 </details>
 
@@ -126,11 +127,12 @@ java BadmintonTournamentSystem
   <summary><strong>Exit</strong></summary>
   <br>
   
-  ![Screenshot of the Exit]()
+  ![Screenshot of the Exit](assets/Exit.png)
   <p align="center"><em>The system exit message.</em></p>
 </details>
 
 ## ✍️ Contributors
+|
 
 ## ✨ Acknowledgement
 <p align="justify"> 
