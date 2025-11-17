@@ -67,7 +67,7 @@ java BadmintonTournamentSystem
   ```
 ## 🖥 Sample Output
 <details>
-  <summary><strong>1. Competition Type Selection</strong></summary>
+  <summary><strong>Competition Type Selection</strong></summary>
   <br>
   
   ![Screenshot of the Competition Type Selection]()
@@ -75,7 +75,7 @@ java BadmintonTournamentSystem
 </details>
 
 <details>
-  <summary><strong>2. Main Menu & Registering Participants</strong></summary>
+  <summary><strong>Main Menu & Registering Participants</strong></summary>
   <br>
   
   ![Screenshot of the Main Menu and Registering Participants]()
@@ -83,7 +83,7 @@ java BadmintonTournamentSystem
 </details>
 
 <details>
-  <summary><strong>3. Viewing Players and Brackets</strong></summary>
+  <summary><strong>Viewing Players and Brackets</strong></summary>
   <br>
   
   ![Screenshot of the Viewing Players and Brackets]()
@@ -91,7 +91,7 @@ java BadmintonTournamentSystem
 </details>
 
 <details>
-  <summary><strong>4. Starting Tournament</strong></summary>
+  <summary><strong>Starting Tournament</strong></summary>
   <br>
   
   ![Screenshot of the Starting Tournament]()
@@ -99,7 +99,7 @@ java BadmintonTournamentSystem
 </details>
 
 <details>
-  <summary><strong>5. Final Ranking</strong></summary>
+  <summary><strong>Final Ranking</strong></summary>
   <br>
   
   ![Screenshot of the Final Ranking]()
@@ -107,7 +107,7 @@ java BadmintonTournamentSystem
 </details>
 
 <details>
-  <summary><strong>6. Updating a Participant</strong></summary>
+  <summary><strong>Updating a Participant</strong></summary>
   <br>
   
   ![Screenshot of the Updating a Participant]()
@@ -115,7 +115,7 @@ java BadmintonTournamentSystem
 </details>
 
 <details>
-  <summary><strong>7. Deleting a Participant</strong></summary>
+  <summary><strong>Deleting a Participant</strong></summary>
   <br>
   
   ![Screenshot of the Deleting a Participant]()
@@ -123,7 +123,7 @@ java BadmintonTournamentSystem
 </details>
 
 <details>
-  <summary><strong>8. Exit</strong></summary>
+  <summary><strong>Exit</strong></summary>
   <br>
   
   ![Screenshot of the Exit]()
