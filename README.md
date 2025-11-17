@@ -132,7 +132,12 @@ java BadmintonTournamentSystem
 </details>
 
 ## ✍️ Contributors
-|
+|  | Name | Year | Github Account |
+|--------|------|------|--------| 
+| <img src="" width="80"/> | **Chloe Yzabelle Gonzaga** | 2nd Year|[![GitHub](https://github.com/chlyzbll)|
+| <img src="" width="80"/> | **Jiselle Mae Silla** | 2nd Year | [![GitHub](https://github.com/ellemrsgn27)|
+| <img src="" width="80"/> | **Lance Buenviaje** | 2nd Year | [![GitHub](https://github.com/LncBnvj)|
+
 
 ## ✨ Acknowledgement
 <p align="justify"> 
