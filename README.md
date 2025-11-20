@@ -5,7 +5,7 @@
 
 ## 📝 Overview
 <p align="justify">
-The <i>Badminton Tournament System</i> is a Java console-based application designed to efficiently organize and manage badminton competitions. Users can choose the tournament type between Single Elimination or Double Elimination and navigate a clear, interactive menu that offers the following options:
+The <i><strong>Badminton Tournament System</strong></i> is a Java console-based application designed to efficiently organize and manage badminton competitions. Users can choose the tournament type between Single Elimination or Double Elimination and navigate a clear, interactive menu that offers the following options:
 </p>
   
 - 📝 Register Players
@@ -15,7 +15,7 @@ The <i>Badminton Tournament System</i> is a Java console-based application desig
 - 🗑️ Delete Players
 
 <p align="justify">
-The system demonstrates the four key Object-Oriented Programming (OOP) principles—encapsulation, inheritance, abstraction, and polymorphism—through its well-structured class design and method implementation. By integrating exception handling, arrays, and user-driven console interactions, the project provides a practical and engaging simulation of real-world tournament management, highlighting both functionality and good programming practice. 
+The system demonstrates the four key <strong>Object-Oriented Programming (OOP) principles encapsulation, inheritance, abstraction, and polymorphism</strong> through its well-structured class design and method implementation. By integrating exception handling, arrays, and user-driven console interactions, the project provides a practical and engaging simulation of real-world tournament management, highlighting both functionality and good programming practice. 
 </p>
 
 
@@ -147,18 +147,21 @@ java BadmintonTournamentSystem
 ## ✍️ Contributors
 |  | Name | Year | Github Account |
 |--------|------|------|--------| 
-| <img src="https://github.com/ellemrsgn27/BadmintonTournamentSystem/blob/main/assets/Chloe.jpg?raw=true" width="80"/> | **Chloe Yzabelle Gonzaga** | 2nd Year|[GitHub](https://github.com/chlyzbll)|
-| <img src="https://github.com/ellemrsgn27/BadmintonTournamentSystem/blob/main/assets/Jisselle.jpg?raw=true" width="80"/> | **Jiselle Mae Silla** | 2nd Year | [GitHub](https://github.com/ellemrsgn27)|
-| <img src="https://github.com/ellemrsgn27/BadmintonTournamentSystem/blob/main/assets/Lance.jpg?raw=true" width="80"/> | **Lance Buenviaje** | 2nd Year | [GitHub](https://github.com/LncBnvj)|
+|<img src="profile/Chloe.jpg" width="80"/> | **Chloe Yzabelle Gonzaga** | 2nd Year|[GitHub](https://github.com/chlyzbll)|
+| <img src="profile/Jisselle.jpg" width="80"/>  | **Jiselle Mae Silla** | 2nd Year | [GitHub](https://github.com/ellemrsgn27)|
+| <img src="profile/Lance.jpg" width="80"/>   | **Lance Buenviaje** | 2nd Year | [GitHub](https://github.com/LncBnvj)|
 
 
 ## ✨ Acknowledgement
 <p align="justify"> 
-We would like to express our heartfelt gratitude to **Mr. Emmanuel Charlie Enriquez** for his sincere support and encouragement throughout the development of this project. Your dedication to teaching us and your thoughtful guidance helped us think critically and improve at every stage. We are truly grateful for the time and effort you devoted to helping us grow. This project would not have been possible without your unwavering support.
-<p align="justify">
-We would also like to give a special mention to **Ms. Fatima Marie Agdon** for her continuous assistance and motivation. Your insights and encouragement contributed greatly to our learning experience, and we deeply appreciate your presence and support along the way.
+We would like to express our heartfelt gratitude to <strong>Mr. Emmanuel Charlie Enriquez</strong>  for his sincere support and encouragement throughout the development of this project. Your dedication to teaching us and your thoughtful guidance helped us think critically and improve at every stage. We are truly grateful for the time and effort you devoted to helping us grow. This project would not have been possible without your unwavering support.
+</p>
 
-*Sincerely,*
+<p align="justify">
+We would also like to give a special mention to <strong>Ms. Fatima Marie Agdon</strong> for her continuous assistance and motivation. Your insights and encouragement contributed greatly to our learning experience, and we deeply appreciate your presence and support along the way.
+</p>
+
+*Sincerely,*  
 
 *TriByte*
 
