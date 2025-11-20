@@ -49,4 +49,3 @@ public class Team extends Participant {
         return teamName + " (" + player1 + " & " + player2 + ")";
     }
 }
-
