@@ -144,7 +144,8 @@ java BadmintonTournamentSystem
   <p align="center"><em>The system exit message.</em></p>
 </details>
 
-## ✍️ Contributors
+<h2 align = "center"> ✍️ Contributors </h2> 
+
 |  | Name | Year | Github Account |
 |--------|------|------|--------| 
 |<img src="profile/Chloe.jpg" width="80"/> | **Chloe Yzabelle Gonzaga** | 2nd Year|[GitHub](https://github.com/chlyzbll)|
