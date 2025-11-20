@@ -144,7 +144,7 @@ java BadmintonTournamentSystem
   <p align="center"><em>The system exit message.</em></p>
 </details>
 
-<h2 align = "center"> ✍️ Contributors </h2> 
+## ✍️ Contributors
 
 |  | Name | Year | Github Account |
 |--------|------|------|--------| 
