@@ -145,6 +145,7 @@ java BadmintonTournamentSystem
 </details>
 
 ## ✍️ Contributors
+
 |  | Name | Year | Github Account |
 |--------|------|------|--------| 
 |<img src="profile/Chloe.jpg" width="80"/> | **Chloe Yzabelle Gonzaga** | 2nd Year|[GitHub](https://github.com/chlyzbll)|
