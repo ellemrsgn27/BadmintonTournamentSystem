@@ -5,7 +5,7 @@
 
 ## 📝 Overview
 <p align="justify">
-The <i><strong>Badminton Tournament System</strong></i> is a Java console-based application designed to efficiently organize and manage badminton competitions. Users can choose the tournament type between Single Elimination or Double Elimination and navigate a clear, interactive menu that offers the following options:
+The <i><strong>Badminton Tournament System</strong></i> is a Java console-based application designed to efficiently organize and manage badminton competitions. Users can choose the tournament type between Single or Double Tournament and navigate a clear, interactive menu that offers the following options:
 </p>
   
 - 📝 Register Players
